@@ -32,4 +32,4 @@ TikTok clone by Oyelabs helps you launch a short video platform with full custom
 <p><strong>MoontokX</strong> is more than just a clone — it’s a ready-to-launch, white-label short-form video platform built to scale and succeed.</p>
 
 <h3>Ready to build your own TikTok-like app?</h3>
-<p>Reach out to us at <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s bring your short video idea to life with <strong>MoontokX</strong>.</p>
+<p>Reach out to us at <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s bring your short video idea to life with <strong>MoontokX</strong>.</p>
