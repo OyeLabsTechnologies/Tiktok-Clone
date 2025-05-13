@@ -2,7 +2,7 @@
 TikTok clone by Oyelabs helps you launch a short video platform with full customization and monetization.
 <h3>MOONTOKX – A Customizable TikTok Clone for Your Short Video Platform</h3>
 
-<p><strong>MoontokX</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/tiktok-clone/" target="_blank">TikTok clone script</a> crafted for entrepreneurs who want to build a vibrant and fully customizable short-form video platform. Whether you're focusing on a niche community or aiming for global reach, MoontokX empowers you to bring your unique brand and vision to life with engaging features, modern UI, and seamless user experience.</p>
+<p><strong>MoontokX</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/tiktok-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">TikTok Clone</a> crafted for entrepreneurs who want to build a vibrant and fully customizable short-form video platform. Whether you're focusing on a niche community or aiming for global reach, MoontokX empowers you to bring your unique brand and vision to life with engaging features, modern UI, and seamless user experience.</p>
 
 <p>Developed using Flutter for mobile apps and PHP with Laravel for the backend, <strong>MoontokX</strong> delivers smooth performance across devices, ensuring cross-platform compatibility and future-ready scalability. While it mirrors the successful model of TikTok, the script is flexible enough to add your own features, monetization strategies, and content moderation tools — giving you full control over your platform.</p>
 
